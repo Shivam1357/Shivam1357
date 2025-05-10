@@ -2,7 +2,7 @@
 
 > A passionate full-stack & mobile developer from India, building scalable web and AI-powered apps while solving 500+ DSA problems. Currently exploring the intersection of tech and trading.
 
-🎓 Final year IT student at SRMCEM, Lucknow (2022–2026)  
+🎓 Pre-final year IT student at AKTU, Lucknow (2022–2026)  
 👨‍💻 Full-Stack & Android Developer | 500+ LeetCode Problems | 1650+ Contest Rating  
 📫 shivamjaiswal9628@gmail.com | 📱 +91 95593 23312  
 
@@ -29,5 +29,3 @@
 - 🥇 1st Place – Code-a-thon, Ganavya'24  
 - 🥇 1st Place – Code Charades 2.0 (Apple India replica)  
 - 🔥 500+ problems solved on LeetCode  
-
----
