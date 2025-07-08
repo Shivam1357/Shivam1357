@@ -2,14 +2,14 @@
 
 > A passionate full-stack & mobile developer from India, building scalable web and AI-powered apps while solving 500+ DSA problems. Currently exploring the intersection of tech and trading.
 
-🎓 Pre-final year IT student at AKTU, Lucknow (2022–2026)  
+🎓 Final year IT student at AKTU, Lucknow (2022–2026)  
 👨‍💻 Full-Stack & Android Developer | 500+ LeetCode Problems | 1650+ Contest Rating  
 📫 shivamjaiswal9628@gmail.com | 📱 +91 95593 23312  
 
 ---
 
 ### 🚀 Tech Stack
-- **Languages**: C++, Python, Java, Bash, SQL  
+- **Languages**: C++, Java, SQL  
 - **Web**: React.js, Next.js, Node.js, Express, Django, MySQL, Firebase  
 - **Mobile**: React Native, Expo  
 - **Other**: Git/GitHub, REST APIs, Google Cloud, Shell Scripting  
